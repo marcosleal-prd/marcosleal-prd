@@ -43,4 +43,5 @@ def start() -> None:
 
 
 if __name__ == '__main__':
+    print(__file__)
     start()
