@@ -1,0 +1,22 @@
+version: "3.8"
+
+x-build:
+  &default-build
+  context: .
+  dockerfile: Dockerfile
+
+services:
+  app:
+    container_name: app
+    build: *default-build
+    volumes:
+      - .:/app
+    command: ["./scripts/start.sh",]
+
+  lint:
+    container_name: app-lint
+    build: *default-build
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: ["./scripts/start-lint.sh"]
