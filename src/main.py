@@ -7,7 +7,7 @@ from pytz import timezone
 
 def update_footer() -> str:
     timestamp = datetime.now(timezone('America/Sao_Paulo')).strftime('%c')
-    footer = Path('./FOOTER.md').read_text()
+    footer = Path('FOOTER.md').read_text()
 
     return footer.format(timestamp=timestamp)
 
@@ -34,11 +34,11 @@ def update_readme_medium_posts(feed: str, readme: str, join_on: str) -> str:
 def start() -> None:
     rss_url = 'https://medium.com/feed/@marcosleal.prd'
     rss_title = '### Stories by Marcos Vinicius on Medium'
-    readme = Path('./README.md').read_text()
+    readme = Path('README.md').read_text()
 
     updated_readme = update_readme_medium_posts(rss_url, readme, rss_title)
 
-    with open('./README.md', 'w+') as f:
+    with open('README.md', 'w+') as f:
         f.write(updated_readme + update_footer())
 
 
