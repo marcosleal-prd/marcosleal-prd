@@ -1,3 +1,5 @@
+![Code Style](https://github.com/marcosleal-prd/marcosleal-prd/workflows/Code%20Style/badge.svg?branch=main&event=push) ![CronJob](https://github.com/marcosleal-prd/marcosleal-prd/workflows/CronJob/badge.svg?branch=main)
+
 # Your visit will be better with a coffee :coffee:
 
 Hello, my name is Marcos V. Leal.
