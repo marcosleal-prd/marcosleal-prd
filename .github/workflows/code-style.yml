@@ -1,0 +1,16 @@
+name: Code Style
+on: [push]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🍽️ Get working copy
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: 🛠 Build project
+        run: docker-compose build --no-cache lint
+      - name: 🔬 Check code Style
+        run: docker-compose up --exit-code-from lint lint

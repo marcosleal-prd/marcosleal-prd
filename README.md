@@ -1,4 +1,4 @@
-# :coffee: Your visit will be better with a coffee :coffee:
+# Your visit will be better with a coffee :coffee:
 
 Hello, my name is Marcos V. Leal.
 
@@ -44,16 +44,3 @@ Docker, Kubernetes, Python, TypeScript, NodeJS, Serverless, PostgreSQL, Message 
 PHP, GraphQL, DynamoDB, Cognito, Istio, C# / .NET
 
 ### Stories by Marcos Vinicius on Medium
-
-- [Microsserviços: Monitoramento e Solução de Problemas com Istio (Service Mesh)](https://medium.com/juntos-somos-mais/microsservi%C3%A7os-monitoramento-e-solu%C3%A7%C3%A3o-de-problemas-com-istio-service-mesh-4590632df205?source=rss-36acaa566b36------2)
-- [Python Package Managers, Ecossistema, Pipenv e Poetry](https://medium.com/juntos-somos-mais/python-package-managers-ecossistema-pipenv-e-poetry-1967fae56d26?source=rss-36acaa566b36------2)
-- [BEM CSS - Seu código legível e escalável](https://medium.com/@marcosleal.prd/bem-css-seu-c%C3%B3digo-leg%C3%ADvel-e-escal%C3%A1vel-10f5ab25845a?source=rss-36acaa566b36------2)
-- [Introdução ao banco de dados NoSQL e MongoDB](https://medium.com/@marcosleal.prd/introdu%C3%A7%C3%A3o-ao-banco-de-dados-nosql-e-mongodb-f217b4b75d6a?source=rss-36acaa566b36------2)
-- [Angular v7: Atualize seu projeto](https://medium.com/@marcosleal.prd/angular-v7-atualize-seu-projeto-46615558925a?source=rss-36acaa566b36------2)
-
-<hr>
-<div align="center">
-    README.md last auto genereted Thu Nov 12 23:42:54 2020
-    <br>
-    <a href="https://coderarena.com.br" target="_blank">Read about Programming, Architecture, DevOps and Career here.</a>
-</div>
