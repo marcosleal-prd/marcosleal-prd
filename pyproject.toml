@@ -1,22 +1,20 @@
 [tool.poetry]
-name = "marcosleal-prd"
+name = "marcosleal"
 version = "0.1.0"
-description = "README.md auto generated with Python and Githu Actions."
-authors = ["Marcos V. Leal <marcosleal.prd@gmail.com>"]
-license = "MIT"
+description = "Geração automática de Profile README.md com Python e Github Actions."
+authors = ["Marcos V. Leal <marcosleal@coderarena.com.br>"]
+license = "GPL-3.0-only"
 readme = "README.md"
 repository = "https://github.com/marcosleal-prd/marcosleal-prd"
-packages = [
-    { include = "src/**/*.py" },
-]
 
 [tool.poetry.scripts]
-start = "src.main:start"
+start = "main:start"
 
 [tool.poetry.dependencies]
 python = "^3.9"
 feedparser = "^6.0.2"
 pytz = "^2020.4"
+google-api-python-client = "^1.12.5"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
@@ -32,9 +30,9 @@ use_parentheses = true
 multi_line_output = 3
 include_trailing_comma = true
 lines_between_types = 1
-known_project = "src"
-known_third_party = ["feedparser", "pytz"]
-sections = ["FUTURE", "STDLIB", "THIRDPARTY", "FIRSTPARTY", "LOCALFOLDER", "PROJECT"]
+known_marcosleal = "marcosleal"
+known_third_party = ["feedparser", "pytz", "googleapiclient"]
+sections = ["FUTURE", "STDLIB", "THIRDPARTY", "FIRSTPARTY", "LOCALFOLDER", "MARCOSLEAL"]
 
 [tool.black]
 line-length = 80

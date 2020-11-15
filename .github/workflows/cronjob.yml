@@ -4,11 +4,13 @@ on:
     branches:
       - main
   schedule:
-    - cron: "30 10 * * 1"
+    - cron: "30 10 * * 4"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     steps:
       - name: 🍽️ Get working copy
         uses: actions/checkout@master

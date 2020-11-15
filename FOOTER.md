@@ -1,6 +1,8 @@
 <hr>
 <div align="center">
-    README.md last auto genereted {timestamp}
+    Última geração automática em {timestamp}
     <br>
-    <a href="https://coderarena.com.br" target="_blank">Read about Programming, Architecture, DevOps and Career here.</a>
+    <a href="https://coderarena.com.br" target="_blank">
+        Quer saber como esse README foi construído?
+    </a>
 </div>

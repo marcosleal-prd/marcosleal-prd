@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Project Folders
-FOLDER="src"
+FOLDER="."
 
 # Run Tools
 isort $FOLDER -c --diff
