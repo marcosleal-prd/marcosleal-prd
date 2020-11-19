@@ -31,6 +31,7 @@ E muito mais...
 
 ### :clapper: Últimos Vídeos no YouTube
 
+- [Python #03 - Seu README do Github automatizado com Python, Docker e GitHub Actions](https://www.youtube.com/watch?v=B0RhE-5opv4)
 - [Python #02 - Requests Avançado: Timeout, Hooks e Política de Retry](https://www.youtube.com/watch?v=sk3YntKx-Bo)
 - [Python #01 - Pyenv: Gerenciamento simples de versões Python](https://www.youtube.com/watch?v=ivMewUWVBwo)
 
@@ -50,7 +51,7 @@ E muito mais...
 
 <hr>
 <div align="center">
-    Última geração automática em 15/11/2020 às 15:52:27
+    Última geração automática em 19/11/2020 às 07:33:29
     <br>
     <a href="https://coderarena.com.br" target="_blank">
         Quer saber como esse README foi construído?
