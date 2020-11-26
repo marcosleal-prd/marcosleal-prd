@@ -31,6 +31,7 @@ E muito mais...
 
 ### :clapper: Últimos Vídeos no YouTube
 
+- [Github Codespaces - Seu novo ambiente de desenvolvimento na nuvem](https://www.youtube.com/watch?v=7PZxNOt_0oU)
 - [Python #03 - Seu README do Github automatizado com Python, Docker e GitHub Actions](https://www.youtube.com/watch?v=B0RhE-5opv4)
 - [Python #02 - Requests Avançado: Timeout, Hooks e Política de Retry](https://www.youtube.com/watch?v=sk3YntKx-Bo)
 - [Python #01 - Pyenv: Gerenciamento simples de versões Python](https://www.youtube.com/watch?v=ivMewUWVBwo)
@@ -51,7 +52,7 @@ E muito mais...
 
 <hr>
 <div align="center">
-    Última geração automática em 20/11/2020 às 21:00:58
+    Última geração automática em 26/11/2020 às 07:34:44
     <br>
     <a href="https://youtu.be/B0RhE-5opv4" target="_blank">
         Quer saber como esse README foi construído?
