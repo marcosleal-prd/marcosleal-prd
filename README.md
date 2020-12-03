@@ -31,6 +31,7 @@ E muito mais...
 
 ### :clapper: Últimos Vídeos no YouTube
 
+- [Execução de cluster Kubernetes local com Kind](https://www.youtube.com/watch?v=NEo36iGB6Mw)
 - [Github Codespaces - Seu novo ambiente de desenvolvimento na nuvem](https://www.youtube.com/watch?v=7PZxNOt_0oU)
 - [Python #03 - Seu README do Github automatizado com Python, Docker e GitHub Actions](https://www.youtube.com/watch?v=B0RhE-5opv4)
 - [Python #02 - Requests Avançado: Timeout, Hooks e Política de Retry](https://www.youtube.com/watch?v=sk3YntKx-Bo)
@@ -52,7 +53,7 @@ E muito mais...
 
 <hr>
 <div align="center">
-    Última geração automática em 26/11/2020 às 07:34:44
+    Última geração automática em 03/12/2020 às 07:36:56
     <br>
     <a href="https://youtu.be/B0RhE-5opv4" target="_blank">
         Quer saber como esse README foi construído?
