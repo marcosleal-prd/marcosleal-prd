@@ -35,7 +35,7 @@ E muito mais...
 - [Usando container Registry local com Kind](https://www.youtube.com/watch?v=ihZWicVcikg)
 - [Execução de cluster Kubernetes local com Kind](https://www.youtube.com/watch?v=NEo36iGB6Mw)
 - [Github Codespaces - Seu novo ambiente de desenvolvimento na nuvem](https://www.youtube.com/watch?v=7PZxNOt_0oU)
-- [Python #02 - Requests Avançado: Timeout, Hooks e Política de Retry](https://www.youtube.com/watch?v=sk3YntKx-Bo)
+- [Python #03 - Seu README do Github automatizado com Python, Docker e GitHub Actions](https://www.youtube.com/watch?v=B0RhE-5opv4)
 
 ### :page_facing_up: Últimos Artigos no Site
 
@@ -54,7 +54,7 @@ E muito mais...
 
 <hr>
 <div align="center">
-    Última geração automática em 18/11/2021 às 07:40:20
+    Última geração automática em 25/11/2021 às 07:40:28
     <br>
     <a href="https://youtu.be/B0RhE-5opv4" target="_blank">
         Quer saber como esse README foi construído?
