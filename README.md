@@ -39,10 +39,7 @@ E muito mais...
 
 ### :page_facing_up: Últimos Artigos no Site
 
-- [Docker Tips #01 - Qual é a diferença entre ADD e COPY](https://coderarena.com.br/posts/docker-tips-01-qual-e-a-diferenca-entre-add-e-copy/)
-- [Como usar Prettier com ESLint e TypeScript no VSCode](https://coderarena.com.br/posts/como-usar-prettier-com-eslint-e-typescript-no-vscode/)
-- [Como usar ESLint em projetos com TypeScript e Node.JS](https://coderarena.com.br/posts/como-usar-eslint-em-projetos-com-typescript-e-node.js/)
-- [🐍 Python Package Managers, Ecossistema, Pipenv e Poetry](https://coderarena.com.br/posts/python-package-managers-ecossistema-pipenv-e-poetry/)
+
 
 ### :scroll: Últimos Artigos no Medium
 
@@ -54,7 +51,7 @@ E muito mais...
 
 <hr>
 <div align="center">
-    Última geração automática em 21/07/2022 às 07:44:05
+    Última geração automática em 28/07/2022 às 07:43:36
     <br>
     <a href="https://youtu.be/B0RhE-5opv4" target="_blank">
         Quer saber como esse README foi construído?
