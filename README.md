@@ -51,7 +51,7 @@ E muito mais...
 
 <hr>
 <div align="center">
-    Última geração automática em 18/08/2022 às 07:43:58
+    Última geração automática em 25/08/2022 às 07:44:37
     <br>
     <a href="https://youtu.be/B0RhE-5opv4" target="_blank">
         Quer saber como esse README foi construído?
