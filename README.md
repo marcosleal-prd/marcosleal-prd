@@ -39,7 +39,11 @@ E muito mais...
 
 ### :page_facing_up: Últimos Artigos no Site
 
-
+- [Docker Tips #01 - Qual é a diferença entre ADD e COPY](https://coderarena.com.br/coderarena.com.br/posts/docker-tips-01-qual-e-a-diferenca-entre-add-e-copy/)
+- [Gerenciamento de clusters Kubernetes com k9s e alternativas](https://coderarena.com.br/coderarena.com.br/posts/gerenciamento-de-clusters-kubernetes-com-k9s-e-alternativas/)
+- [Usando container Registry local com Kind](https://coderarena.com.br/coderarena.com.br/posts/usando-container-registry-local-com-kind/)
+- [Execução de cluster Kubernetes local com Kind](https://coderarena.com.br/coderarena.com.br/posts/execução-de-cluster-kubernetes-local-com-kind/)
+- [Github Codespaces - Seu novo ambiente de desenvolvimento na nuvem](https://coderarena.com.br/coderarena.com.br/posts/github-codespaces-seu-novo-ambiente-de-desenvolvimento-na-nuvem/)
 
 ### :scroll: Últimos Artigos no Medium
 
@@ -51,7 +55,7 @@ E muito mais...
 
 <hr>
 <div align="center">
-    Última geração automática em 22/09/2022 às 07:46:10
+    Última geração automática em 27/09/2022 às 23:29:16
     <br>
     <a href="https://youtu.be/B0RhE-5opv4" target="_blank">
         Quer saber como esse README foi construído?
