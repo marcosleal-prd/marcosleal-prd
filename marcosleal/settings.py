@@ -8,7 +8,7 @@ YOUTUBE_SECTION_TITLE = '### :clapper: Últimos Vídeos no YouTube'
 
 # Site
 SITE_MAX_POSTS = 5
-SITE_FEED_URL = 'https://coderarena.com.br/index.xml'
+SITE_FEED_URL = 'https://coderarena.com.br/rss.xml'
 SITE_SECTION_TITLE = '### :page_facing_up: Últimos Artigos no Site'
 
 # Medium
