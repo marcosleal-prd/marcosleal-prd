@@ -31,8 +31,11 @@ E muito mais...
 
 ### :clapper: Últimos Vídeos no YouTube
 
-- [Python #02 - Requests Avançado: Timeout, Hooks e Política de Retry](https://www.youtube.com/watch?v=sk3YntKx-Bo)
-- [Python #01 - Pyenv: Gerenciamento simples de versões Python](https://www.youtube.com/watch?v=ivMewUWVBwo)
+- [Gerenciamento de clusters Kubernetes com k9s e alternativas](https://www.youtube.com/watch?v=DPVg0LwkCA4)
+- [Usando container Registry local com Kind](https://www.youtube.com/watch?v=ihZWicVcikg)
+- [Execução de cluster Kubernetes local com Kind](https://www.youtube.com/watch?v=NEo36iGB6Mw)
+- [Github Codespaces - Seu novo ambiente de desenvolvimento na nuvem](https://www.youtube.com/watch?v=7PZxNOt_0oU)
+- [Python #03 - Seu README do Github automatizado com Python, Docker e GitHub Actions](https://www.youtube.com/watch?v=B0RhE-5opv4)
 
 ### :page_facing_up: Últimos Artigos no Site
 
@@ -52,7 +55,7 @@ E muito mais...
 
 <hr>
 <div align="center">
-    Última geração automática em 01/06/2023 às 07:36:48
+    Última geração automática em 08/06/2023 às 07:35:16
     <br>
     <a href="https://youtu.be/B0RhE-5opv4" target="_blank">
         Quer saber como esse README foi construído?
