@@ -47,15 +47,11 @@ E muito mais...
 
 ### :scroll: Últimos Artigos no Medium
 
-- [Microsserviços: Monitoramento e Solução de Problemas com Istio (Service Mesh)](https://medium.com/juntos-somos-mais/microsservi%C3%A7os-monitoramento-e-solu%C3%A7%C3%A3o-de-problemas-com-istio-service-mesh-4590632df205?source=rss-36acaa566b36------2)
-- [Python Package Managers, Ecossistema, Pipenv e Poetry](https://medium.com/juntos-somos-mais/python-package-managers-ecossistema-pipenv-e-poetry-1967fae56d26?source=rss-36acaa566b36------2)
-- [BEM CSS - Seu código legível e escalável](https://medium.com/@marcosleal.prd/bem-css-seu-c%C3%B3digo-leg%C3%ADvel-e-escal%C3%A1vel-10f5ab25845a?source=rss-36acaa566b36------2)
-- [Introdução ao banco de dados NoSQL e MongoDB](https://medium.com/@marcosleal.prd/introdu%C3%A7%C3%A3o-ao-banco-de-dados-nosql-e-mongodb-f217b4b75d6a?source=rss-36acaa566b36------2)
-- [Angular v7: Atualize seu projeto](https://medium.com/@marcosleal.prd/angular-v7-atualize-seu-projeto-46615558925a?source=rss-36acaa566b36------2)
+
 
 <hr>
 <div align="center">
-    Última geração automática em 21/12/2023 às 07:33:24
+    Última geração automática em 28/12/2023 às 07:33:05
     <br>
     <a href="https://youtu.be/B0RhE-5opv4" target="_blank">
         Quer saber como esse README foi construído?
